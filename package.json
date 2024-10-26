@@ -1,5 +1,5 @@
 {
-  "name": "xcp-proxy",
+  "name": "counterparty-classic-xcp-proxy",
   "version": "0.0.1",
   "description": "A proxy for addrindexrs and some QOL stuff for counterparty",
   "main": "index.js",

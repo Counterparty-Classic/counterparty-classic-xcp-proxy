@@ -1,14 +1,14 @@
 # Description
-`xcp-proxy` is a websockets proxy for all the [Counterparty](https://counterparty.io) subsystems.
+`counterparty-classic-xcp-proxy` is a websockets proxy for all the Counterparty Classic subsystems.
 
 # Installation
-For a simple Docker-based install of the Counterparty software stack, see [this guide](http://counterparty.io/docs/federated_node/).
+For a simple Docker-based install of the Counterparty Classic software stack, see [this guide](https://github.com/jdogresorg/counterparty-classic-fednode).
 
 Manual installation can be done by:
 
 ```bash
-git clone https://github.com/CounterpartyXCP/xcp-proxy
-cd xcp-proxy
+git clone https://github.com/jdogresorg/counterparty-classic-xcp-proxy
+cd counterparty-classic-xcp-proxy
 npm install
 npm start
 ```
